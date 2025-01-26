@@ -11,7 +11,7 @@ AtliQ Hardware, a retail company offering products like PCs, mice, and printers,
 - **Power Pivot**: Data Modeling  
 - **Pivot Table**: Data Summarization  
 - **DAX Measures**: Create Calculated Columns 
-- **Conditional Formatting**: Enhanced stakeholder readability  
+- **Conditional Formatting**: Emphasizing Critical insight for stakeholder   
 
 ---
 
