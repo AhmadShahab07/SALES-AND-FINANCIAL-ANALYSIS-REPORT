@@ -10,7 +10,7 @@ AtliQ Hardware, a retail company offering products like PCs, mice, and printers,
 - **Power Query**: Data Cleaning & ETL  
 - **Power Pivot**: Data Modeling  
 - **Pivot Table**: Data Summarization  
-- **DAX Measures**: Calculations for insights  
+- **DAX Measures**: Create Calculated Columns 
 - **Conditional Formatting**: Enhanced stakeholder readability  
 
 ---
